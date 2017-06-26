@@ -5,3 +5,5 @@ A simple php class to connect/publish/subscribe to an MQTT broker
 
 Documentation: Coming Soon
 Source: http://github.com/bluerhinos/phpMQTT
+
+可以使用在 Codeigniter 的函式庫
